@@ -3,11 +3,10 @@ title: "Learn to Type Fast"
 datePublished: Sun Apr 30 2023 10:41:48 GMT+0000 (Coordinated Universal Time)
 cuid: clxfuzjt5000409mfagpwb8bf
 slug: learn-typing-fast
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720240860710/fe34f3f2-d095-4628-a1e8-280bed869656.webp
 tags: speed, typing, keyboard, fast-typing
 
 ---
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1718440299393/eeb0f4fc-85c4-4583-8f16-b4883413557c.png)
 
 Typing fast is really important in todays digital world where most of the communication happens through text. It is also important for being productive and efficient at work or school.
 
