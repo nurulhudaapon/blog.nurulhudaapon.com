@@ -2,7 +2,7 @@
 title: "Learn to Type Fast"
 datePublished: Sun Apr 30 2023 10:41:48 GMT+0000 (Coordinated Universal Time)
 cuid: clxfuzjt5000409mfagpwb8bf
-slug: learn-to-type-fast
+slug: learn-typing-fast
 tags: speed, typing, keyboard, fast-typing
 
 ---
