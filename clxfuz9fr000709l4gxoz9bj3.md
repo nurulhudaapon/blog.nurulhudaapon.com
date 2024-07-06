@@ -2,7 +2,7 @@
 title: "Tips on Staying Focused 🧘"
 datePublished: Fri Apr 28 2023 15:40:38 GMT+0000 (Coordinated Universal Time)
 cuid: clxfuz9fr000709l4gxoz9bj3
-slug: tips-on-staying-focused-53e42eed981c
+slug: stay-focused
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1718440287335/19c9c88f-2747-4ad7-92c8-accd51ce9a50.png
 
 ---
