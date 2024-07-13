@@ -3,7 +3,7 @@ title: "30 Programming Design Patterns"
 datePublished: Sat Jul 13 2024 11:27:57 GMT+0000 (Coordinated Universal Time)
 cuid: clyk1m28z00070ajt0im4eju7
 slug: 30-programming-design-patterns
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720870909359/0c07013d-8dc1-40ca-b346-612d813826c4.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720871678776/95a92760-1947-48b7-b6f9-7c767960909f.png
 
 ---
 
