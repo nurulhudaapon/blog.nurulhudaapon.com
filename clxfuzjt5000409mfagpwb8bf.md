@@ -12,9 +12,12 @@ Typing fast is really important in todays digital world where most of the commun
 
 **Here are some basic tips to begin typing fast:**
 
-*   Learn to use all 10 fingers while typing. (this is called touch typing)
-*   Use a better keyboard. (mechanical keyboards are preferable)
-*   Practice, practice, practice.
+* Learn to use all 10 fingers while typing. (this is called touch typing)
+    
+* Use a better keyboard. (mechanical keyboards are preferable)
+    
+* Practice, practice, practice.
+    
 
 #### Touch Typing
 
@@ -22,9 +25,12 @@ If you haven’t learn touch typing yet or you know but doesn’t feel comfortab
 
 **Here are some resources to learn touch typing:**
 
-*   [Typing Club](https://www.typingclub.com/)
-*   [Rapid Typing](https://www.rapidtyping.com/)
-*   [Keybr](https://www.keybr.com/)
+* [Typing Club](https://www.typingclub.com/)
+    
+* [Rapid Typing](https://www.rapidtyping.com/)
+    
+* [Keybr](https://www.keybr.com/)
+    
 
 You can try them all and see which one works best for you. I personally like Rapid Typing because it has a lot of lessons and it is free.
 
@@ -32,11 +38,16 @@ You can try them all and see which one works best for you. I personally like Rap
 
 Keyboard does affect your typing speed a bit. If you are a student, programmer, gamer or anyone who types a lot, I would recommend you to get a mechanical keyboard because they are more compfortable and durable.
 
-**Here are some mechanical keyboards that I recommend:**
+**Here are some mechanical keyboards that I loved using:**
 
-*   [Keychron K2](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard)
-*   [Keychron K6](https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard)
-*   [RK Royal Kludge RK84](https://www.techlandbd.com/rk-royal-kludge-rk84-keyboard-red)
+* [Keychron K2 Pro](https://www.keychron.com/products/keychron-k2-pro-qmk-via-wireless-mechanical-keyboard)
+    
+* [Keychron K2](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard)
+    
+* [Keychron K6](https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard)
+    
+* [RK Royal Kludge RK84](https://www.techlandbd.com/rk-royal-kludge-rk84-keyboard-red)
+    
 
 I personally like simpler design and smaller keyboard as I can carry them in my backpack, I use Keychron K2 for that reason. but you can choose any keyboard that you like.
 
@@ -46,8 +57,10 @@ Practice is the key to building muscle memory and getting comfortable and fast a
 
 **Here are some resources to practice typing:**
 
-*   [Monkeytype](https://monkeytype.com/)
-*   [Typing.com](https://www.typing.com/student)
+* [Monkeytype](https://monkeytype.com/)
+    
+* [Typing.com](https://www.typing.com/student)
+    
 
 Monkeytype is my favorite typing practice website because it is simple and has very modern design. You can also practice typing code with it.
 
