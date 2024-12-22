@@ -12,11 +12,9 @@ tags: 2024-year-in-review, life-update
 
 Here is a quick summary of what the events that took place in this year!
 
-* **Job Offers:** I received several job offers at the beginning of the year, but I didn't accept them because I'm very happy at my current job.
-    
 * **Saint Martin Tour:** It was my first time visiting a beach and an island, and it was fantastic!
     
-* **Umrah:** Alhamdulillah, I was able to complete my Umrah by the mercy of the Almighty.
+* **Umrah****:** Alhamdulillah, I was able to complete my Umrah by the mercy of the Almighty.
     
 * **CodeSamurai’24:** For the first time, I participated in a national hackathon and was part of the winning team, placing 9th.
     
@@ -25,15 +23,23 @@ Here is a quick summary of what the events that took place in this year!
 
 # Saint Martin Tour
 
+**January’24** — Thanks to my awesome university friends for organizing the smooth tour. Initially there weren’t enough tourmates to be found, but at the end we ended up with 20 people on the tour and for everyone enjoyed the tour.
+
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734175206181/7627cfc7-86c3-4f41-b40b-b3cd60cc7660.png align="left")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734872374426/dbfe3d2a-e644-4a8e-a9aa-643e749e51ec.png align="center")
 
 # Umrah
 
+**March’24** — Based on my current 'one international tour a year' schedule, I was trying to find nearby Middle Eastern countries. Initially, the United Arab Emirates and Saudi Arabia came to mind, but then it occurred to me, why not just do the Umrah? So, I booked it with a group of amazing elderly religious people. The Umrah schedule was right in the middle of Ramadan, so it was the best time for Umrah. Our flight had a transit at **Kuwait Airport** from **Dhaka Airport**, where we entered into the state of Ihram. It was an unbelievable feeling! After a 3-hour layover at Kuwait Airport, our flight continued to Jeddah. By around 2 PM local time, we landed in Jeddah and completed immigration. We then began our journey to the holy city of Mecca by bus. Throughout this journey, we were fasting, and because of the time zone difference, it turned out to be the longest fast for all of us. Once we reached our hotel in Mecca, we took a short rest and then broke our fast with Iftar. After the Isha prayer, we went to the Kaaba to perform Tawaf and Sa'ay. For the first time in my life, I shaved my head and exited the state of Ihram.
+
+It was an amazing experience seeing Muslims from all around the world and visiting all the sacred places. We stayed in Mecca for the first week and visited every sacred place and mosque. The next week, we went to Medina and similarly visited all the sacred places and mosques. One interesting thing was that I had to spend some time in Medina coding for the CodeSamurai’24 Hackathon. It was a weird feeling to code while being in Medina, but that’s how my life is. The picture below was taken right in front of the **Al Masjid an Nabawi** ([Prophet's Mosque](https://en.wikipedia.org/wiki/Prophet%27s_Mosque)).
+
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734175309192/0a6ae875-ce95-4bed-b23a-1f7367d53112.png align="center")
 
-# **CodeSamurai’24**
+# [**CodeSamurai’24**](https://www.codesamuraibd.net/)
 
-![No photo description available.](https://scontent.fdac149-1.fna.fbcdn.net/v/t39.30808-6/436352114_3566398253650743_3051486165647593400_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHeBuN4CNSyzQL5_C0-w6MZFicQddUy8-cWJxB11TLz510Xr9d9wJIVbCjlSm2PhSTPgLyl-0MBzuQlK5Eca2YX&_nc_ohc=0R5fhhdsrxQQ7kNvgHrwKgt&_nc_zt=23&_nc_ht=scontent.fdac149-1.fna&_nc_gid=AE9o-vmFPG1REt_mJ_WhN_F&oh=00_AYCd95hhVZWv9nZhcYffkE6-UC-oLoyqLZ-X6cwK8M6TWg&oe=67632B4A align="left")
+It was the first hackathon of my life to participate, I’m not much into competition but circumstanced brought me into participating this one with my mates Zahin Afsar and Suaeb Ahmed.
 
 # **Promotion**
 
