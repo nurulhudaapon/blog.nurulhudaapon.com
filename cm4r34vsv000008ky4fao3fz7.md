@@ -1,9 +1,12 @@
 ---
 title: "2024 Year in Review"
+seoTitle: "Reflecting on 2024"
+seoDescription: "2024 highlights: travel, career growth, spiritual journeys, and significant personal and societal change"
 datePublished: Mon Dec 16 2024 13:43:12 GMT+0000 (Coordinated Universal Time)
 cuid: cm4r34vsv000008ky4fao3fz7
 slug: 2024-year-in-review
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734356363631/e8463120-43b0-47ba-a778-a7090b04cbe2.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1734886575388/5400bc39-b27d-4665-95cd-e4f7411929c3.png
 tags: 2024-year-in-review, life-update
 
 ---
