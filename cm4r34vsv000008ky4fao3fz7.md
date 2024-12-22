@@ -23,7 +23,13 @@ Here is a quick summary of what the events that took place in this year!
 
 # Saint Martin Tour
 
-**January’24** — Thanks to my awesome university friends for organizing the smooth tour. Initially there weren’t enough tour-mates to be found, but at the end we ended up with 20 people on the tour and for everyone enjoyed the tour.
+**January’24** — A big thanks to my amazing university friends for organizing such a smooth and memorable tour. Initially, it was challenging to gather enough participants, but in the end, we had a group of 20 people, and everyone thoroughly enjoyed the experience.
+
+We spent five days on the island, with each day bringing its own unique activities. From cycling and playing football to multiple barbecue parties, every moment was filled with fun and excitement. I missed out on a few activities because, once again, I couldn’t take a full vacation and had to spend some time working.
+
+Despite that, the tour was absolutely fantastic and particularly special as it was my first trip with both my siblings and university friends.
+
+Here is more on [Saint Martin Island](https://en.wikipedia.org/wiki/St._Martin%27s_Island).
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734175206181/7627cfc7-86c3-4f41-b40b-b3cd60cc7660.png align="left")
 
@@ -31,7 +37,7 @@ Here is a quick summary of what the events that took place in this year!
 
 # Umrah
 
-**March 2024** — Following my "one international tour a year" schedule, I started exploring nearby Middle Eastern countries for my next trip. Initially, the United Arab Emirates and Saudi Arabia came to mind, but then I thought, why not do the Umrah? So, I booked the trip with a group of amazing elderly religious people. The Umrah was scheduled right in the middle of Ramadan, making it the best time for this spiritual journey.
+**March’24** — Following my "one international tour a year" schedule, I started exploring nearby Middle Eastern countries for my next trip. Initially, the United Arab Emirates and Saudi Arabia came to mind, but then I thought, why not do the Umrah? So, I booked the trip with a group of amazing elderly religious people. The Umrah was scheduled right in the middle of Ramadan, making it the best time for this spiritual journey.
 
 Our flight had a transit at **Kuwait Airport** from **Dhaka Airport**, where we entered into the state of Ihram. It was an indescribable feeling! After a 3-hour layover at **Kuwait Airport**, we continued our journey to Jeddah. By around 2 PM local time, we landed at Jeddah Airport and completed the immigration process. From there, we began our journey to the holy city of Mecca by bus. Since we were fasting, and due to the time zone difference, it ended up being the longest fast any of us had experienced.
 
@@ -57,4 +63,12 @@ We were lagging behind in phase 2, but somehow (well, not “somehow”—we wor
 
 # **Promotion**
 
-I’ve been leading the engineering team for a while but finally in June’24 I officially got the promotion to Staff Engineer role.
+**June’24** — I’ve been leading the engineering team for a while now, but my CEO encouraged me to further enhance my leadership skills and suggested transitioning to a Staff Engineer role. Initially, I was skeptical and felt unprepared for such a significant position, thinking I was too young for the role. Nevertheless, I decided to embrace the opportunity, knowing that my experience outweighed any doubts tied to my age.
+
+Since then, I’ve been actively working on refining my leadership abilities and started following the principles outlined in the book [*How to Win Friends and Influence People*](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People). This journey has been both challenging and rewarding, pushing me to grow as a leader.
+
+# Concluding
+
+In conclusion, the moments I’ve highlighted above were just a few standout occasions that I felt deserved their own mention, but so much more happened beyond these events. I made several transformative changes to my future plans—changes I could never have imagined before.
+
+Amid all these personal milestones, my motherland, Bangladesh, witnessed a historic mass student uprising, which ultimately led to the toppling of the government. It was a year of profound personal and societal change, shaping both my perspective and the world around me.
