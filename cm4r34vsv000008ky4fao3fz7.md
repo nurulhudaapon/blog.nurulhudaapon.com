@@ -14,7 +14,7 @@ Here is a quick summary of what the events that took place in this year!
 
 * **Saint Martin Tour:** It was my first time visiting a beach and an island, and it was fantastic!
     
-* **Umrah****:** Alhamdulillah, I was able to complete my Umrah by the mercy of the Almighty.
+* **Umrah**: Alhamdulillah, I was able to complete my Umrah by the mercy of the Almighty.
     
 * **CodeSamurai’24:** For the first time, I participated in a national hackathon and was part of the winning team, placing 9th.
     
@@ -31,15 +31,29 @@ Here is a quick summary of what the events that took place in this year!
 
 # Umrah
 
-**March’24** — Based on my current 'one international tour a year' schedule, I was trying to find nearby Middle Eastern countries. Initially, the United Arab Emirates and Saudi Arabia came to mind, but then it occurred to me, why not just do the Umrah? So, I booked it with a group of amazing elderly religious people. The Umrah schedule was right in the middle of Ramadan, so it was the best time for Umrah. Our flight had a transit at **Kuwait Airport** from **Dhaka Airport**, where we entered into the state of Ihram. It was an unbelievable feeling! After a 3-hour layover at Kuwait Airport, our flight continued to Jeddah. By around 2 PM local time, we landed in Jeddah and completed immigration. We then began our journey to the holy city of Mecca by bus. Throughout this journey, we were fasting, and because of the time zone difference, it turned out to be the longest fast for all of us. Once we reached our hotel in Mecca, we took a short rest and then broke our fast with Iftar. After the Isha prayer, we went to the Kaaba to perform Tawaf and Sa'ay. For the first time in my life, I shaved my head and exited the state of Ihram.
+**March 2024** — Following my "one international tour a year" schedule, I started exploring nearby Middle Eastern countries for my next trip. Initially, the United Arab Emirates and Saudi Arabia came to mind, but then I thought, why not do the Umrah? So, I booked the trip with a group of amazing elderly religious people. The Umrah was scheduled right in the middle of Ramadan, making it the best time for this spiritual journey.
 
-It was an amazing experience seeing Muslims from all around the world and visiting all the sacred places. We stayed in Mecca for the first week and visited every sacred place and mosque. The next week, we went to Medina and similarly visited all the sacred places and mosques. One interesting thing was that I had to spend some time in Medina coding for the CodeSamurai’24 Hackathon. It was a weird feeling to code while being in Medina, but that’s how my life is. The picture below was taken right in front of the **Al Masjid an Nabawi** ([Prophet's Mosque](https://en.wikipedia.org/wiki/Prophet%27s_Mosque)).
+Our flight had a transit at **Kuwait Airport** from **Dhaka Airport**, where we entered into the state of Ihram. It was an indescribable feeling! After a 3-hour layover at **Kuwait Airport**, we continued our journey to Jeddah. By around 2 PM local time, we landed at Jeddah Airport and completed the immigration process. From there, we began our journey to the holy city of Mecca by bus. Since we were fasting, and due to the time zone difference, it ended up being the longest fast any of us had experienced.
+
+Once we reached our hotel in Mecca, we took a short rest and then broke our fast with Iftar. After the Isha prayer, we went to the Kaaba to perform Tawaf and Sa'ay. For the first time in my life, I shaved my head and exited the state of Ihram.
+
+It was an awe-inspiring experience, seeing Muslims from all over the world and visiting all the sacred places. We spent the first week in Mecca, visiting every sacred site and mosque. The following week, we traveled to Medina and similarly visited all the sacred places and mosques there.
+
+An interesting part of my trip was that I had to spend some time in Medina coding for the CodeSamurai’24 Hackathon. It felt surreal to be coding while in such a holy city, but that's how my life goes. The picture below was taken right in front of Al-Masjid an-Nabawi (the [Prophet's Mosque).](https://en.wikipedia.org/wiki/Prophet%27s_Mosque)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734175309192/0a6ae875-ce95-4bed-b23a-1f7367d53112.png align="center")
 
-# [**CodeSamurai’24**](https://www.codesamuraibd.net/)
+# [**CodeSamurai**](https://en.wikipedia.org/wiki/Prophet%27s_Mosque)[**’24**](https://www.codesamuraibd.net/)
 
-It was the first hackathon I ever participated in. I'm not much into competition, but circumstances led me to join this one with my mates [Zahin Afsar](https://zahin.netlify.app/) and [Suaeb Ahmed](https://suaebahmed.github.io/my-portfolio/). We had zero expectations from this competition as we all held full-time jobs and couldn’t afford a vacation at the time. After doing our worst in the mock preliminary, we failed because our program couldn’t even be executed. However, in the actual preliminary, we ended up being 5th out of 400+ registered teams. From the preliminary, 91 teams got selected, and the second phase began (it was basically the main phase) in March '24. Unfortunately, I had a conflict with my Umrah schedule, which began at the same time, making me unable to contribute much for that phase. Anyhow, we got selected for the final onsite, where we were tasked with enhancing what we built for phase 2 and a mobile app. We were lagging behind in phase 2, but somehow (of course, not somehow—we did work hard in the final 24 hours) we made it to the winners' list with rank 9 (the top 10 teams were selected for the winners' list).
+**December’23 - May’24** — It was the first hackathon I had ever participated in. I’m not much into competitions, but circumstances led me to join this one with my mates, [Zahin Afsar](https://zahin.netlify.app/) and [Suaeb Ahmed](https://suaebahmed.github.io/my-portfolio/). We had zero expectations for the competition since all of us had full-time jobs and couldn’t take time off for a vacation.
+
+After a disastrous performance in the mock preliminary round, we failed because our program couldn’t even execute properly. However, in the actual preliminary round, we managed to place 5th out of 400+ registered teams. From there, 91 teams were selected for the second phase (essentially the main phase) in March 2024.
+
+Unfortunately, the second phase coincided with my Umrah schedule, which left me unable to contribute much during that stage. Nevertheless, we got selected for the final onsite phase, where we were tasked with enhancing what we had built in phase 2 and creating a mobile app.
+
+We were lagging behind in phase 2, but somehow (well, not “somehow”—we worked incredibly hard during the final 24 hours!) we managed to make it to the winners' list with a rank of 9. The top 10 teams were honored as winners, and making it onto that list was an incredible feeling.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734884526025/50bb431c-b5e4-4f19-989b-428dbd77c5cd.png align="center")
 
 # **Promotion**
 
