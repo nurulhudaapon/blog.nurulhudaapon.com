@@ -23,7 +23,7 @@ Here is a quick summary of what the events that took place in this year!
 
 # Saint Martin Tour
 
-**January’24** — Thanks to my awesome university friends for organizing the smooth tour. Initially there weren’t enough tourmates to be found, but at the end we ended up with 20 people on the tour and for everyone enjoyed the tour.
+**January’24** — Thanks to my awesome university friends for organizing the smooth tour. Initially there weren’t enough tour-mates to be found, but at the end we ended up with 20 people on the tour and for everyone enjoyed the tour.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734175206181/7627cfc7-86c3-4f41-b40b-b3cd60cc7660.png align="left")
 
@@ -39,8 +39,8 @@ It was an amazing experience seeing Muslims from all around the world and visiti
 
 # [**CodeSamurai’24**](https://www.codesamuraibd.net/)
 
-It was the first hackathon of my life to participate, I’m not much into competition but circumstanced brought me into participating this one with my mates Zahin Afsar and Suaeb Ahmed.
+It was the first hackathon I ever participated in. I'm not much into competition, but circumstances led me to join this one with my mates [Zahin Afsar](https://zahin.netlify.app/) and [Suaeb Ahmed](https://suaebahmed.github.io/my-portfolio/). We had zero expectations from this competition as we all held full-time jobs and couldn’t afford a vacation at the time. After doing our worst in the mock preliminary, we failed because our program couldn’t even be executed. However, in the actual preliminary, we ended up being 5th out of 400+ registered teams. From the preliminary, 91 teams got selected, and the second phase began (it was basically the main phase) in March '24. Unfortunately, I had a conflict with my Umrah schedule, which began at the same time, making me unable to contribute much for that phase. Anyhow, we got selected for the final onsite, where we were tasked with enhancing what we built for phase 2 and a mobile app. We were lagging behind in phase 2, but somehow (of course, not somehow—we did work hard in the final 24 hours) we made it to the winners' list with rank 9 (the top 10 teams were selected for the winners' list).
 
 # **Promotion**
 
-Got a promotion at my current workplace to a the Staff Engineer role.
+I’ve been leading the engineering team for a while but finally in June’24 I officially got the promotion to Staff Engineer role.
