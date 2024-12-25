@@ -52,7 +52,7 @@ An interesting part of my trip was that I had to spend some time in Medina codin
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734175309192/0a6ae875-ce95-4bed-b23a-1f7367d53112.png align="center")
 
-# [**CodeSamurai**](https://en.wikipedia.org/wiki/Prophet%27s_Mosque)[**’24**](https://www.codesamuraibd.net/)
+# **CodeSamurai’24**
 
 **December’23 - May’24** — It was the first hackathon I had ever participated in. I’m not much into competitions, but circumstances led me to join this one with my mates, [Zahin Afsar](https://zahin.netlify.app/) and [Suaeb Ahmed](https://suaebahmed.github.io/my-portfolio/). We had zero expectations for the competition since all of us had full-time jobs and couldn’t take time off for a vacation.
 
@@ -61,6 +61,8 @@ After a disastrous performance in the mock preliminary round, we failed because 
 Unfortunately, the second phase coincided with my Umrah schedule, which left me unable to contribute much during that stage. Nevertheless, we got selected for the final onsite phase, where we were tasked with enhancing what we had built in phase 2 and creating a mobile app.
 
 We were lagging behind in phase 2, but somehow (well, not “somehow”—we worked incredibly hard during the final 24 hours!) we managed to make it to the winners' list with a rank of 9. The top 10 teams were honored as winners, and making it onto that list was an incredible feeling.
+
+Learn more about CodeSamurai here: [https://www.codesamuraibd.net/](https://www.codesamuraibd.net/)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734884526025/50bb431c-b5e4-4f19-989b-428dbd77c5cd.png align="center")
 
