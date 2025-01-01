@@ -1,6 +1,6 @@
 ---
 title: "My Journey to Software Development"
-seoTitle: "Path to Becoming a Software Developer"
+seoTitle: "My Journey to Software Development"
 seoDescription: "Explore Nurul's inspiring journey from overcoming coding fears to balancing a full-time job and university studies in software development"
 datePublished: Wed Jan 01 2025 08:19:18 GMT+0000 (Coordinated Universal Time)
 cuid: cm5dmlyiu000009l74qws61er
