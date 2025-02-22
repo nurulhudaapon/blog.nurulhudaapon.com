@@ -5,7 +5,7 @@ seoDescription: "Explore Nurul's inspiring journey from overcoming coding fears 
 datePublished: Wed Jan 01 2025 08:19:18 GMT+0000 (Coordinated Universal Time)
 cuid: cm5dmlyiu000009l74qws61er
 slug: software-development-journey
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1740231595046/db97aeaa-de23-4282-adb5-462af128e4b5.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1740231687510/79e89fed-2fc1-4c93-a8f7-7f02e94778a3.png
 tags: career, study, journey, software-development-learning-javascript-career-journey-balancing-work-and-study-remote-work-personal-growth-university-experience-overcoming-challenges-determination-and-adaptability
 
 ---
