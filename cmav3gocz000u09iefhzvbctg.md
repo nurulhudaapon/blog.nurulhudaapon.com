@@ -1,5 +1,5 @@
 ---
-title: "How to smile 101! 😃"
+title: "How to smile 101!"
 seoTitle: "Smile Techniques for Beginners"
 seoDescription: "Learn how to smile genuinely and boost happiness with tips on embracing positivity and creating an approachable, joyful presence"
 datePublished: Mon May 19 2025 13:01:41 GMT+0000 (Coordinated Universal Time)
